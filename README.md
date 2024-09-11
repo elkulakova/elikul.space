@@ -72,6 +72,10 @@ bash script.bash
  <img width="600px" src="6.png" alt="qr"/>
 </p>
 
+<p align="center">
+ <img width="600px" src="7.png" alt="qr"/>
+</p>
+
  $* – переменная, содержащая все аргументы командной строки и принимающая их за **одну строку**
 
 2. Вышла из режима редактирования и сохранила файл: `esc` > `:w`+`Enter`. Закрыла текстовый редактор `vim`, выполнив следующую комбинацию: `:q`+`Enter`. Запустила bash-скрипт, выполнив в терминале
@@ -79,10 +83,6 @@ bash script.bash
 ```bash
 bash script.bash Benedict Timothy Carlton Cumberbatch
 ```
-
-<p align="center">
- <img width="600px" src="7.png" alt="qr"/>
-</p>
 
 3. В терминале отобразилась строка `Welcome, Benedict Timothy Carlton Cumberbatch`.
 
