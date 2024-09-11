@@ -87,5 +87,5 @@ bash script.bash Benedict Timothy Carlton Cumberbatch
 3. В терминале отобразилась строка `Welcome, Benedict Timothy Carlton Cumberbatch`.
 
 <p align="center">
- <img width="600px" src="8.png" alt="qr"/>
+ <img width="800px" src="8.png" alt="qr"/>
 </p>
