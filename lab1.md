@@ -20,16 +20,27 @@ touch script.bash
 ```bash
 gedit script.bash
 ```
+<p align="center">
+ <img width="600px" src="2.png" alt="qr"/>
+</p>
+
 однако терминал выдал ошибку:
 
 ```bash
 zsh: command not found: gedit
 ```
+<p align="center">
+ <img width="600px" src="3.png" alt="qr"/>
+</p>
+
 поэтому я использовала **графический редактор `vim`**, который поддерживает MacOS, и скрипт выполнился успешно:
 
 ```bash
 vim script.bash
 ```
+<p align="center">
+ <img width="600px" src="4.png" alt="qr"/>
+</p>
 
 3. Для редактирования нажала клавишу `i`. Вписала следующий скрипт:
 
@@ -38,6 +49,9 @@ vim script.bash
 
 echo "Welcome to ITMO University"
 ```
+<p align="center">
+ <img width="600px" src="5.png" alt="qr"/>
+</p>
 
 4. Вышла из режима редактирования и сохранила файл: `esc` > `:w`+`Enter`. Закрыла текстовый редактор `vim`, выполнив следующую комбинацию: `:q`+`Enter`. Запустила bash-скрипт, выполнив в терминале
 
