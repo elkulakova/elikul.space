@@ -11,7 +11,9 @@ mkdir inflabs
 cd inflabs
 touch script.bash
 ```
-[Image alt](https://github.com/elkulakova/elikulakova/raw/лаба-1,-инф/1.png)
+<p align="center">
+ <img width="200px" src="1.png" alt="qr"/>
+</p>
 
 2. Открыла созданный файл `script.bash` для редактирования. Выполнила в терминале
 
