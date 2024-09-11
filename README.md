@@ -11,7 +11,9 @@ mkdir inflabs
 cd inflabs
 touch script.bash
 ```
+<p align="center">
  <img width="600px" src="1.png" alt="qr"/>
+</p>
 
 2. Открыла созданный файл `script.bash` для редактирования. Выполнила в терминале
 
@@ -57,4 +59,33 @@ bash script.bash
 
 <p align="center">
  <img width="600px" src="5.png" alt="qr"/>
+</p>
+
+### часть 2. задача
+
+1. для решения этой задачи я вновь открыла графический редактор `vim` и изменила текущий скрипт на следующий:
+
+```bash
+"Welcome, "$*""
+```
+<p align="center">
+ <img width="600px" src="6.png" alt="qr"/>
+</p>
+
+ $* – переменная, содержащая все аргументы командной строки и принимающая их за **одну строку**
+
+2. Вышла из режима редактирования и сохранила файл: `esc` > `:w`+`Enter`. Закрыла текстовый редактор `vim`, выполнив следующую комбинацию: `:q`+`Enter`. Запустила bash-скрипт, выполнив в терминале
+
+```bash
+bash script.bash Benedict Timothy Carlton Cumberbatch
+```
+
+<p align="center">
+ <img width="600px" src="7.png" alt="qr"/>
+</p>
+
+3. В терминале отобразилась строка `Welcome, Benedict Timothy Carlton Cumberbatch`.
+
+<p align="center">
+ <img width="600px" src="8.png" alt="qr"/>
 </p>
