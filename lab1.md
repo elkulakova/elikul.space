@@ -54,8 +54,9 @@ echo "Welcome to ITMO University"
 ```bash
 bash script.bash
 ```
+
+5. В терминале отобразилась строка `Welcome to ITMO University`.
+
 <p align="center">
  <img width="600px" src="5.png" alt="qr"/>
 </p>
-
-5. В терминале отобразилась строка `Welcome to ITMO University`.
